@@ -10,7 +10,7 @@ r = praw.Reddit(
                'Created by the #redditbot Reddit Slack community'
                'Designed to scrape /r/news to help identify trending news.'
                 )
-o = OAuth2Util.OAuth2Util(r, server_mode=True)
+o = OAuth2Util.OAuth2Util(r, server_mode=True) #Adds Authorization 
 subreddit = r.get_subreddit("news")
 loop_count = 0
 
