@@ -1,2 +1,1 @@
-# News_Scraper
-A Reddit News Scraper created by the /r/learnprogramming Slack group, #redditbot
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/jeldridgeTS/News_Scraper)
